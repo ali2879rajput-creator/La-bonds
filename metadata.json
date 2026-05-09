@@ -1,0 +1,11 @@
+{
+  "name": "LA Bail Bonds AI Agent",
+  "description": "A professional voice AI agent for 24/7 bail bond assistance and appointment booking in Los Angeles. Featuring a personalized SoCal female persona.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "voice_agent",
+    "appointment_booking"
+  ]
+}
